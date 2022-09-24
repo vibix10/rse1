@@ -1,0 +1,54 @@
+[
+  {
+    "companyID": "KCB",
+    "name": "Kenya Commercial Bank",
+    "logo": "benjamin",
+    "securityType": "Bond",
+    "shares": 500,
+    "askPrice": 120,
+    "city": "Kigali",
+    "country": "Rwanda",
+    "phone": "+250788567171",
+    "email": "vibix10",
+    "description": "Banking company in Rwanda"
+  },
+  {
+    "companyID": "EQT",
+    "name": "Equity Bank",
+    "logo": "benm",
+    "securityType": "Share",
+    "shares": 300,
+    "askPrice": 200,
+    "city": "Kigali",
+    "country": "Rwanda",
+    "phone": "+250788567171",
+    "email": "equity",
+    "description": "Banking company in Rwanda offering several services"
+  },
+  {
+    "companyID": "MTN",
+    "name": "MTN Rwanda",
+    "logo": "MTN",
+    "securityType": "Bond",
+    "shares": 1000,
+    "askPrice": 250,
+    "city": "Kigali",
+    "country": "Rwanda",
+    "phone": "+250788567171",
+    "email": "vibix10",
+    "description": "Banking company in Rwanda"
+  },
+  {
+    "companyID": "BK",
+    "name": "Bank of Kigali",
+    "logo": "benjamin12",
+    "securityType": "Share",
+    "shares": 300,
+    "askPrice": 100,
+    "city": "Kigali",
+    "country": "Rwanda",
+    "phone": "+250788567171",
+    "email": "vibix10",
+    "description": "Banking company in Rwanda"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ben",
+    "username": "ben",
+    "email": "vibix10@gmail.com",
+    "password": "ben",
+    "phone": "0788567171",
+    "image": {
+      "public_id": "ben",
+      "url": "ben"
+    },
+    "role": "investor"
+  },
+  {
+    "name": "jessy",
+    "username": "jessy",
+    "email": "jessy@gmail.com",
+    "password": "jessy",
+    "phone": "0788567171",
+    "image": {
+      "public_id": "jessy",
+      "url": "jessy"
+    },
+    "role": "underwriter"
+  }
+]
