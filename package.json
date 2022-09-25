@@ -12,7 +12,7 @@
     "start": "node backend/index.js",
     "dev": "SET MODE=DEVELOPMENT & nodemon backend/index",
     "prod": "SET MODE=PRODUCTION & nodemon backend/index",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix --force frontend && npm run build --prefix frontend"
   },
   "author": "ben",
   "license": "ISC",
